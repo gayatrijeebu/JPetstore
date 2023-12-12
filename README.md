@@ -2,7 +2,7 @@
 
 Deployed a Java-Based JPetstore Application using Jenkins, Docker, and Kubernetes on AWS.
 
-Work flow
+
  ![image](https://github.com/gayatrijeebu/JPetstore/assets/97388879/1ba72b4e-1323-4d12-9da8-dd169c4e9909)
 
  ![image](https://github.com/gayatrijeebu/JPetstore/assets/97388879/8ab042b2-7255-46df-a2bb-4edc3944d7a7)
@@ -842,7 +842,9 @@ pipeline{
 
 
 Thank you
+
 Thank you for taking the time to work on this tutorial/labs. Let me know your thoughts on this!
 
 By [Gayatri] (https://github.com/gayatrijeebu)
+
 Ensure to follow me on GitHub. Please star/share this repository!
